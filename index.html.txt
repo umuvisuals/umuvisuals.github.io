@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+
+		<title style="color:Black">umuvisuals</title>
+		<STYLE type="text/css">
+			H1 {text-align: center}
+			body {
+				background-color: lightgrey;
+			}
+		</STYLE>
+	</head>
+
+	<body>
+		<h1>umuvisuals</h1>
+	</body>
+</html>
